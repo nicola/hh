@@ -1,0 +1,10 @@
+{
+  "name"          : "hh",
+  "description"   : "It makes a javascript function an high order function using hh",
+  "keywords"      : ["util", "functional", "server", "client", "browser"],
+  "author"        : "Nicola Greco <n.greco@ucl.ac.uk>",
+  "repository"    : {"type": "git", "url": "git://github.com/nicolagreco/hh.git"},
+  "main"          : "hh.js",
+  "version"       : "0.1.0",
+  "license"       : "MIT"
+}
