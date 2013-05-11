@@ -1,7 +1,7 @@
 {
   "name"          : "hh",
   "repo"          : "nicolagreco/hh",
-  "description"   : "It Makes a javascript function an high order function using hh(\"callback\", args)",
+  "description"   : "Simple partial application library (high order function)",
   "version"       : "0.0.1",
   "keywords"      : ["util", "functional", "server", "client", "browser"],
   "license"       : "MIT",

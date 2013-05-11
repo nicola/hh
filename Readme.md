@@ -1,7 +1,7 @@
 
 # hh
 
-It makes a javascript function an high order function.
+Simple partial application library (high order function)
 
 ## Installation
 

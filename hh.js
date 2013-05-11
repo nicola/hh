@@ -1,6 +1,7 @@
 /**
  * Gets a function and optional arguments and returns an high order function
  * You can use it to return function passing parameters when writing callbacks
+ * http://en.wikipedia.org/wiki/Partial_application
  *
  *    function test(item) {
  *      console.log(item);
