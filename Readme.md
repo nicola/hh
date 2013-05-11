@@ -23,7 +23,10 @@ function test(item) {
 }
   
 hh(test, "this is a test");
-// will return a function
+// it will return a function
+// instead of
+function() { return test("this is a test");}
+
 ```
 
 ## License
